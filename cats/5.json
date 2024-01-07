@@ -1,0 +1,38 @@
+{
+  "id": 5,
+  "name": "Oliver",
+  "dataNascimento": "24/12/2022",
+  "especie": "Felina",
+  "raca": "-",
+  "sexo": "Macho",
+  "pai": "Francisco",
+  "mae": "Rayanne",
+  "endereco": "Av. Francisco Moreira 801, Bloco J302",
+  "cidade": "Aracaju, SE",
+  "telefone": "(79) 99841-4129",
+  "image": "/assets/pictures/oliver.jpg",
+  "remedios": [
+    {
+      "id": 1,
+      "name": "Hemocare",
+      "horario": "12h",
+      "dataIni": "20/11/2023",
+      "dataFim": "22/12/2023"
+    }
+  ],
+  "vacinas": [
+    {
+      "id": 1,
+      "name": "raiva",
+      "data": "15/12/2023"
+    }
+  ],
+  "exames": [
+    {
+      "id": 1,
+      "name": "Sangue",
+      "data": "12/12/2023",
+      "documentos": "caminho"
+    }
+  ]
+}
